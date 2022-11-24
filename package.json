@@ -5,9 +5,16 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "react": "16.8.6",
-    "react-dom": "16.8.6",
-    "react-scripts": "3.2.0"
+    "@emotion/react": "11.10.5",
+    "@emotion/styled": "11.10.5",
+    "@fontsource/roboto": "4.5.8",
+    "@mui/icons-material": "5.10.15",
+    "@mui/material": "5.10.15",
+    "@mui/styled-engine-sc": "5.10.14",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "5.0.1",
+    "styled-components": "5.3.6"
   },
   "devDependencies": {
     "typescript": "3.3.3"
